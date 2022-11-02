@@ -19,5 +19,9 @@
   "homepage": "https://github.com/ClintinH/PigGame-Course#readme",
   "dependencies": {
     "parcel": "^2.6.2"
+  },
+  "staticFiles": {
+    "staticPath": "imgs",
+    "staticOutPath": "imgs"
   }
 }
