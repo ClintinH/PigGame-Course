@@ -18,8 +18,6 @@
   },
   "homepage": "https://github.com/ClintinH/PigGame-Course#readme",
   "dependencies": {
-    "@parcel/transformer-css": "^2.7.0",
-    "@parcel/transformer-js": "^2.7.0",
     "parcel": "^2.7.0",
     "parcel-reporter-static-files-copy": "^1.4.0"
   },
